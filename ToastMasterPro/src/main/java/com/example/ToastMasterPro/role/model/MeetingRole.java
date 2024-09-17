@@ -1,4 +1,4 @@
-package com.example.ToastMasterPro.model;
+package com.example.ToastMasterPro.role.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

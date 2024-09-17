@@ -1,5 +1,5 @@
-package com.example.ToastMasterPro.Guest.service;
+// package com.example.ToastMasterPro.Guest.service;
 
-public interface GuestService {
+// public interface GuestService {
 
-}
+// }
