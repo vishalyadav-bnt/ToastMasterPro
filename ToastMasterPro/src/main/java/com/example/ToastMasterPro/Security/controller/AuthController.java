@@ -46,4 +46,10 @@ public class AuthController {
 
         // Logout handled by Spring Security
     }
+
+    @GetMapping("/getprofile/{id}")
+    public User getUser(@PathVariable("id")int id)
+    {
+        return userService.getUser(id);
+    }
 }
